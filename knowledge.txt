@@ -1,0 +1,22 @@
+The company provides 12 casual leave days per year.
+
+Employees can work remotely two days per week.
+
+Purchase requests above Rs. 50,000 require manager approval.
+
+Supplier registration requires business verification.
+
+The procurement department manages vendor selection.
+
+All invoices must be submitted within 30 days.
+
+The IT support team handles technical issues.
+
+Purchase orders must contain supplier details,
+product descriptions, quantities and unit prices.
+
+Supplier selection considers price, quality,
+delivery reliability and compliance.
+
+Employees must report incorrect invoices to
+the finance department.
